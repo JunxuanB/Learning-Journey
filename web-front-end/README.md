@@ -49,3 +49,9 @@
 > [https://www.bilibili.com/video/BV1Z84y1K7jG](https://www.bilibili.com/video/BV1Z84y1K7jG)
 
 这个就涉及一部分后端知识了，可能理解起来比较困难，但是还是需要充分理解。如果不能理解的话就自己去搜索更多相关视频。
+
+### JavaScript DOM
+ 
+> [https://www.bilibili.com/video/BV1sc411p7RQ](https://www.bilibili.com/video/BV1sc411p7RQ)
+
+这是JavaScript很重要的一个功能，他可以结合JS和HTML，允许JS让HTML“动”起来。
